@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "isbn": "978-0-13-444432-1",
+    "user_id": "user1",
+    "username": "john_doe",
+    "rating": 5,
+    "comment": "Excellent book for learning clean coding practices. Highly recommended!",
+    "date": "2024-01-15"
+  },
+  {
+    "id": "2",
+    "isbn": "978-0-321-35668-0",
+    "user_id": "user2",
+    "username": "jane_smith",
+    "rating": 4,
+    "comment": "Great insights into Java best practices. A must-read for Java developers.",
+    "date": "2024-01-20"
+  }
+]

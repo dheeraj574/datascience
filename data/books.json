@@ -1,0 +1,74 @@
+[
+  {
+    "isbn": "978-0-13-444432-1",
+    "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "author": "Robert C. Martin",
+    "publication_date": "2008-08-01",
+    "publisher": "Prentice Hall",
+    "pages": 464,
+    "genre": "Programming",
+    "price": 39.99,
+    "description": "A handbook for writing clean, readable code",
+    "cover_image": "https://m.media-amazon.com/images/I/51E2055ZGUL._SX387_BO1,204,203,200_.jpg"
+  },
+  {
+    "isbn": "978-0-321-35668-0",
+    "title": "Effective Java",
+    "author": "Joshua Bloch",
+    "publication_date": "2017-12-27",
+    "publisher": "Addison-Wesley",
+    "pages": 416,
+    "genre": "Programming",
+    "price": 44.99,
+    "description": "Best practices for the Java programming language",
+    "cover_image": "https://m.media-amazon.com/images/I/51WD-F3GobL._SX379_BO1,204,203,200_.jpg"
+  },
+  {
+    "isbn": "978-0-596-52068-7",
+    "title": "JavaScript: The Good Parts",
+    "author": "Douglas Crockford",
+    "publication_date": "2008-05-08",
+    "publisher": "O'Reilly Media",
+    "pages": 176,
+    "genre": "Programming",
+    "price": 29.99,
+    "description": "A deep dive into JavaScript's most important features",
+    "cover_image": "https://m.media-amazon.com/images/I/5131OWtQRaL._SX381_BO1,204,203,200_.jpg"
+  },
+  {
+    "isbn": "978-0-134-68571-0",
+    "title": "The Pragmatic Programmer",
+    "author": "David Thomas",
+    "publication_date": "2019-09-13",
+    "publisher": "Addison-Wesley",
+    "pages": 352,
+    "genre": "Programming",
+    "price": 42.99,
+    "description": "From journeyman to master",
+    "cover_image": "https://m.media-amazon.com/images/I/61ztlXgCmpL._SX376_BO1,204,203,200_.jpg"
+  },
+  {
+    "isbn": "978-0-201-48567-7",
+    "title": "Refactoring: Improving the Design of Existing Code",
+    "author": "Martin Fowler",
+    "publication_date": "2018-11-19",
+    "publisher": "Addison-Wesley",
+    "pages": 448,
+    "genre": "Programming",
+    "price": 47.99,
+    "description": "How to improve code without changing its behavior",
+    "cover_image": "https://m.media-amazon.com/images/I/61ZGKDfHyBL._SX379_BO1,204,203,200_.jpg"
+  },
+  {
+    "isbn": "978-0-132-35088-4",
+    "title": "Clean Architecture",
+    "author": "Robert C. Martin",
+    "publication_date": "2017-09-10",
+    "publisher": "Prentice Hall",
+    "pages": 432,
+    "genre": "Programming",
+    "price": 41.99,
+    "description": "A craftsman's guide to software structure and design",
+    "cover_image": "https://m.media-amazon.com/images/I/61r4tYVsRVL._SX379_BO1,204,203,200_.jpg"
+  }
+]
